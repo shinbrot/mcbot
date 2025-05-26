@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "cibo", 
+    "username": "cibo",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "restujomok.aternos.me", 
-    "port": 14047,   
-    "version": "1.12.1"   
+    "ip": "restujomok.aternos.me",
+    "port": 14047,
+    "version": "1.12.1"
   },
 
   "position": {
@@ -26,14 +26,13 @@
 
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
 
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
-
       "messages": [
         "hail to cibo",
         "praise to cibo!",

@@ -42,6 +42,8 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 5000,
+
+    "webhook_url": "https://discord.com/api/webhooks/1315419994317918279/HPxKsz-3RsunjwSJu__mSDB4GjtFAVtEvDM8XYEdPIkwdE2rdljl__o8FJWEQIfPJ3Za"
   }
 }

@@ -16,14 +16,13 @@
 
 ## Tutorial
 
-1. Please Watch This Quick 3 Minute Video [HERE](https://www.youtube.com/watch?v=92khf57AfpE) And Consider Subscribing.
-2. For Any Questions Please Join My Discord Server And Create a Ticket. [HERE](https://discord.gg/MgfBNqxSA9)
-3. Fork The Code by pressing on the top Right.
-4. Like the Code So I can Keep Updating it!
+1. For Any Questions Please Join My Discord Server And Create a Ticket. [HERE](https://discord.gg/zYre6XMA)
+2. Fork The Code by pressing on the top Right.
+3. Like the Code So I can Keep Updating it!
 
 ## Installation
 
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
+ 1. [Download](https://github.com/shinbrot/mcbot-afk) the latest package.
  2. Download & install [Node.JS](https://nodejs.org/en/download/)
  3. Run `npm install` command in bot directory.
  
